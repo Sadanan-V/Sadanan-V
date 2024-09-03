@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadanan-v" alt="sadanan-v" /></a> </p>
 
-- 🔭 I’m currently working on [Lemonade Stand project](https://github.com/Sadanan-V/lemonade-stand)
+- 🔭 I’m currently working on [Lemonade Stand project 🍋](https://github.com/Sadanan-V/lemonade-stand)
+
+- 📚 I graduated from [Ritsumeikan Asia Pacific University in Kyushuu](https://en.apu.ac.jp/home/)
 
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript, Vue.js, Mustach.js, Stimulus, Bootstrap, CSS, HTML,and a little bit of Python**
 
-- 💬 Ask me about **Ruby, JavaScript**
+- 💬 Ask me about **Programming ♥️ **
 
 - 📫 How to reach me **sadanan.vorlaruxtara@gmail.com**
 
