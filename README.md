@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Sadanan 👋</h1>
 <h3 align="center">A passionate junior developer who is ready to tackle challenges</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadanan-v&label=Profile%20views&color=0e75b6&style=flat" alt="sadanan-v" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadanan-v" alt="sadanan-v" /></a> </p>
 
 - 🔭 I’m currently working on [Lemonade Stand project](https://github.com/Sadanan-V/lemonade-stand)
