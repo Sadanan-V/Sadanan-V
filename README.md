@@ -13,10 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sadanan-V&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadanan-V&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sadanan-V&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+### ✍️ A great article for future Rails programmers!
+[Check this out!](https://www.linkedin.com/pulse/5-ruby-rails-tips-make-you-coding-rockstar-code-examples-david-raja-to1oc/?trackingId=dNSLSfS2QbKKPXv4dTBj%2Bw%3D%3D)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
